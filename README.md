@@ -1,12 +1,12 @@
 <!--내용 부분-->
 <div>
-  <div align= "center" style="width: 50%"> 
+  <div> 
     <h3>🤗 About me 🤗</h3> <br/>
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I’m a fourth-year student at UBC with combined major in Computer Science and Statistics, focusing on building strong foundations in both fields. I am Canadian living in Vancouver and speak both English and Korean. My goal is to start my career in software engineering or AI/machine learning
+    <div> I’m a fourth-year student at UBC with combined major in Computer Science and Statistics, focusing on building strong foundations in both fields. I am Canadian living in Vancouver and speak both English and Korean. My goal is to start my career in software engineering or AI/machine learning
     </div> 
     <br>
-    <h3 align="center">✨ Tech Stack ✨</h3><br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
+    <h3>✨ Tech Stack ✨</h3><br> 
+    <div> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
@@ -31,10 +31,9 @@
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
     </div>
-  </div>
   <br>
-  <h3 align="center">📫 Contact 📫</h3><br>
-  <div align= "center" style="width: 50%">
+  <h3>📫 Contact 📫</h3><br>
+  <div>
     <a href="mailto:parkryan0128@gmail.com">
       <img src="https://img.shields.io/badge/parkryan0128@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a> <br/>
@@ -43,9 +42,9 @@
     </a>
   </div>
   <br> 
-  <div align= "center" style="width: 50%"> 
+  <div> 
     <h3> 🏅 Stats 🏅</h3><br/>
-    <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=parkryan0128&show_icons=true&theme=swift&hide=contribs&rank_icon=github&include_all_commits=true"/>
+    <div> <img src="https://github-readme-stats.vercel.app/api?username=parkryan0128&show_icons=true&theme=swift&hide=contribs&rank_icon=github&include_all_commits=true"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkryan0128&layout=compact&theme=swift&hide=TSQL,TeX"/>
     </div> 
   </div>
