@@ -1,6 +1,6 @@
 <!--내용 부분-->
-<div style="width: 50%;">
-  <div align= "center"> 
+<div>
+  <div align= "center" style="width: 50%"> 
     <h3>🤗 About me 🤗</h3> <br/>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I’m a fourth-year student at UBC with combined major in Computer Science and Statistics, focusing on building strong foundations in both fields. I am Canadian living in Vancouver and speak both English and Korean. My goal is to start my career in software engineering or AI/machine learning
     </div> 
@@ -34,7 +34,7 @@
   </div>
   <br>
   <h3 align="center">📫 Contact 📫</h3><br>
-  <div align= "center">
+  <div align= "center" style="width: 50%">
     <a href="mailto:parkryan0128@gmail.com">
       <img src="https://img.shields.io/badge/parkryan0128@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a> <br/>
@@ -43,7 +43,7 @@
     </a>
   </div>
   <br> 
-  <div align= "center"> 
+  <div align= "center" style="width: 50%"> 
     <h3> 🏅 Stats 🏅</h3><br/>
     <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=parkryan0128&show_icons=true&theme=swift&hide=contribs&rank_icon=github&include_all_commits=true"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkryan0128&layout=compact&theme=swift&hide=TSQL,TeX"/>
