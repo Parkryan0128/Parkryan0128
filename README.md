@@ -2,7 +2,7 @@
 <div>
   <div> 
     <h3>🤗 About me 🤗</h3> <br/>
-    <div> I’m a fourth-year student at UBC with combined major in Computer Science and Statistics, focusing on building strong foundations in both fields. I am Canadian living in Vancouver and speak both English and Korean. My goal is to start my career in software engineering or AI/machine learning
+    <div> I’m a fourth-year student at UBC with a combined major in Computer Science and Statistics, focusing on building strong foundations in both fields. I live in Vancouver and speak both English and Korean. My goal is to start my career in software engineering or AI/machine learning.
     </div> 
     <br>
     <h3>✨ Tech Stack ✨</h3><br> 
