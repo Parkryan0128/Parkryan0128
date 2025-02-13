@@ -1,12 +1,17 @@
 <!--내용 부분-->
 <div>
   <div> 
-    <h3>🤗 About me 🤗</h3> <br/>
-    <div> I’m a fourth-year student at UBC with a combined major in Computer Science and Statistics, focusing on building strong foundations in both fields. I live in Vancouver and speak both English and Korean. My goal is to start my career in software engineering or AI/machine learning.
+    <h3>🤗 About me 🤗</h3><br/>
+    <div> I’m a fourth-year student at University of British Columbia with a combined major in Computer Science and Statistics, focusing on building strong foundations in both fields. I plan to start my career in software engineering or AI/machine learning.
     </div> 
     <br>
-    <h3>✨ Tech Stack ✨</h3><br> 
-    <div> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
+    <h3>🥷 Top Skills 🥷</h3><br/>
+    <div><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+    </div><br/>
+    <h3>✨ Tech Stack ✨</h3><br/> 
+    <div><img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
@@ -31,17 +36,15 @@
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
     </div>
-  <br>
+  <br/>
   <h3>📫 Contact 📫</h3><br>
-  <div>
-    <a href="mailto:parkryan0128@gmail.com"><img src="https://img.shields.io/badge/parkryan0128@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/parkryan0128/"><img src="https://img.shields.io/badge/Linkedin-1572B6.svg?style=for-the-badge"/></a>
-  </div>
+  <div><a href="mailto:parkryan0128@gmail.com"><img src="https://img.shields.io/badge/parkryan0128@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/parkryan0128/"><img src="https://img.shields.io/badge/Linkedin-1572B6.svg?style=for-the-badge"/></a></div>
   <br> 
   <div> 
     <h3> 🏅 Stats 🏅</h3><br/>
     <div> <img src="https://github-readme-stats.vercel.app/api?username=parkryan0128&show_icons=true&theme=swift&hide=contribs&rank_icon=github&include_all_commits=true"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkryan0128&layout=compact&theme=swift&hide=TSQL,TeX"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkryan0128&layout=compact&theme=swift&hide=TSQL,TeX,HTML"/>
     </div> 
   </div>
 </div>
