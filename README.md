@@ -36,7 +36,7 @@
   <div>
     <a href="mailto:parkryan0128@gmail.com">
       <img src="https://img.shields.io/badge/parkryan0128@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a> <br/>
+    </a>
     <a href="https://www.linkedin.com/in/parkryan0128/">
       <img src="https://img.shields.io/badge/Linkedin-1572B6.svg?style=for-the-badge"/>
     </a>
