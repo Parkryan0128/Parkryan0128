@@ -2,7 +2,7 @@
 <div>
   <div> 
     <h3>🤗 About me 🤗</h3><br/>
-    <div> I’m a fourth-year student at University of British Columbia with a combined major in Computer Science and Statistics, focusing on building strong foundations in both fields. I plan to start my career in software engineering or AI/machine learning.
+    <div> I’m a fourth-year student at University of British Columbia with a combined major in Computer Science and Statistics, focusing on building strong foundations in both fields.
     </div> 
     <br>
     <h3>🥷 Top Skills 🥷</h3><br/>
