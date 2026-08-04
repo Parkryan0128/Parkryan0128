@@ -1,8 +1,10 @@
 <div>
   <div> 
     <h3>🤗 About me 🤗</h3><br/>
-    <div> I’m a fourth-year student at University of British Columbia with a combined major in Computer Science and Statistics, focusing on building strong foundations in both fields.
+    <div> I’m a fourth-year student at University of British Columbia with a combined major in Computer Science.
     </div> 
+    <br>
+    <a>https://ryanparkdev.com/</a>
     <br>
     <h3>🥷 Top Skills 🥷</h3><br/>
     <div>
