@@ -4,7 +4,7 @@
     <div> I’m a fourth-year student at University of British Columbia with a combined major in Computer Science.
     </div> 
     <br>
-    <a href="https://ryanparkdev.com/">https://ryanparkdev.com</a>
+    <a href="https://ryanparkdev.com/" target="_blank" rel="noopener noreferrer">https://ryanparkdev.com</a>
     <br>
     <h3>🥷 Top Skills 🥷</h3><br/>
     <div>
