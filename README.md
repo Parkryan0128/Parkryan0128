@@ -1,7 +1,7 @@
 <div>
   <div> 
     <h3>🤗 About me 🤗</h3><br/>
-    <div> I’m a fourth-year student at University of British Columbia with a combined major in Computer Science.
+    <div> I’m a fourth-year student at University of British Columbia with major in Computer Science.
     </div> 
     <br>
     <a href="https://ryanparkdev.com/" target="_blank" rel="noopener noreferrer">https://ryanparkdev.com</a>
