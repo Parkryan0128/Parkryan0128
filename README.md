@@ -1,7 +1,6 @@
 # Hi, I'm Ryan 👋
 
 Computer Science student at the University of British Columbia.  
-I enjoy building reliable software and learning how systems work.
 
 [Portfolio](https://ryanparkdev.com) ·
 [LinkedIn](https://www.linkedin.com/in/parkryan0128/) ·
